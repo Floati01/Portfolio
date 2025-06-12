@@ -453,7 +453,7 @@ Slider navigation
   padding-top: 35px;
   font-size: 1rem;
   font-weight: 700;
-  color: #a8b4be;
+  color: #bbbbbb;
 }
 .cd-slider-nav a::before {
   content: '';
